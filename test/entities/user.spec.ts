@@ -1,4 +1,4 @@
-import { User } from './user'
+import { User } from '../../src/entities/user'
 
 describe('Use doman class', () => {
   test('should not create user with invalid e-mail address', () => {
