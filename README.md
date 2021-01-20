@@ -10,3 +10,4 @@ Repositório para a matéria de Tópicos em Tecnologia da Computação: Clean Ar
 - [x] Semana 4: Validação de e-mail
 - [x] Semana 5: Criação da classe usuário e validação dos dados
 - [x] Semana 6: Configuração do Jest e caso de uso de criação do usuário
+- [x] Semana 7: Refatoração e criação da pasta de testes
