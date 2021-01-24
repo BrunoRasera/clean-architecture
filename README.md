@@ -11,3 +11,4 @@ Repositório para a matéria de Tópicos em Tecnologia da Computação: Clean Ar
 - [x] Semana 5: Criação da classe usuário e validação dos dados
 - [x] Semana 6: Configuração do Jest e caso de uso de criação do usuário
 - [x] Semana 7: Refatoração e criação da pasta de testes
+- [x] Semana 8: Refatoração dos imports usando path mapping
