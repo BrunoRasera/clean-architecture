@@ -1,9 +1,18 @@
 {
   "compilerOptions": {
-      "outDir": "./dist",
-      "module": "commonJs",
-      "target": "es2018",
-      "esModuleInterop": true,
-      "allowJs": true
+    "outDir": "./dist",
+    "module": "commonJs",
+    "target": "es2018",
+    "esModuleInterop": true,
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "@test/*": [
+        "test/*"
+      ]
+    }
   }
 }
