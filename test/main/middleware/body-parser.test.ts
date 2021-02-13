@@ -1,4 +1,4 @@
-import request from 'supertest'
+import request from '@test/main/routes/node_modules/supertest'
 import app from '@/main/config/app'
 
 describe('Body parser middleware', () => {
