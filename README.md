@@ -14,3 +14,4 @@ Repositório para a matéria de Tópicos em Tecnologia da Computação: Clean Ar
 - [x] Semana 8: Refatoração dos imports usando path mapping
 - [x] Semana 9: Criação do web controller
 - [x] Semana 10: Implementação do Express
+- [x] Semana 11: Refatorações e criação do script de build e start
