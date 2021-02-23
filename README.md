@@ -15,3 +15,4 @@ Repositório para a matéria de Tópicos em Tecnologia da Computação: Clean Ar
 - [x] Semana 9: Criação do web controller
 - [x] Semana 10: Implementação do Express
 - [x] Semana 11: Refatorações e criação do script de build e start
+- [x] Semana 12: Implementação do mongoDB
